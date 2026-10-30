@@ -1,0 +1,8 @@
+{
+  "name": "AYZ Sierra de Meira",
+  "description": "Curated architectural residences, interactive booking screens, and live HTML screen importer with hotlinked image support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
